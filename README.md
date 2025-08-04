@@ -1,1 +1,1 @@
-# Virtual-Dressing-Room-major-project
+# Virtual-Dressing-Room-project
